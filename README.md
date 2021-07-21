@@ -1,1 +1,1 @@
-hsvToNextionColor
+Hue value must be between 0 and 360. Saturation and value percentage must be in float format (between 0 and 1).
